@@ -1,0 +1,34 @@
+body {
+    background: linear-gradient(90deg, rgba(223,47,255,1) 0%, rgba(18,143,126,1) 48%, rgba(0,212,255,1) 100%);
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+#websiteTitle {
+    color: rgb(251, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.redtext {
+    color: thistle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px;
+}
+
+#first {
+    display: inline-block;
+}
+
+span {
+    font-size: 64px;
+}
+
+.container {
+    border: 2px black solid;
+    width: 50%;
+}
